@@ -1,5 +1,3 @@
-# big-data-dev
-
 # Jing Li
 
 ## Current:
