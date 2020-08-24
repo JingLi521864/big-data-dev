@@ -20,4 +20,4 @@ Ritgt now I am not sure what I can do. But I would like to work for web develope
 - [linkedIn](https://www.linkedin.com/in/jing-li-lee/)
 
 ##
-(https://github.com/JingLi521864/big-data-dev/blob/master/bigdata.jpg)
+![alt text](https://github.com/JingLi521864/big-data-dev/blob/master/bigdata.jpg)
