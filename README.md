@@ -1,5 +1,4 @@
 # Jing Li
-- there is a space between the # and name.
 
 ## Current:
 
